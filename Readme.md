@@ -106,8 +106,8 @@ Asegúrate de tener instalados **Node.js** (v18 o superior), **pnpm** (para el f
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DE_LA_CARPETA>
+git clone <(https://github.com/lizcantore-dotcom/segundo-examen-parcial)>
+cd <segundo-examen-parcial>
 ```
 
 ### 2. Configurar y levantar el Backend
