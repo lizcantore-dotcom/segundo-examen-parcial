@@ -11,7 +11,8 @@ La aplicación permite gestionar un catálogo de mascotas rescatadas y refugios 
 * **Alumna:** Liz Jhoana Cantore Paiva
 * **Carrera:** Tecnicatura Superior en Diseño y Programación Web
 * **Asignatura:** Aplicaciones Híbridas
-* **Comisión:** DWM4AV (Turno mañana)
+* **Comisión:** DWN
+* 4AV (Turno mañana)
 * **Año Lectivo:** 2026
 
 ## Funcionalidades Principales
